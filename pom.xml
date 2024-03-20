@@ -4,14 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <groupId>io.quarkus.platform</groupId>
-        <artifactId>quarkus-bom</artifactId>
-<!--        <groupId>io.quarkus</groupId>-->
-<!--        <artifactId>quarkus-build-parent</artifactId>-->
-        <version>3.7.3</version>
-        <relativePath/>
-    </parent>
+<!--    <parent>-->
+<!--        <groupId>io.quarkus.platform</groupId>-->
+<!--        <artifactId>quarkus-bom</artifactId>-->
+<!--        <version>3.7.3</version>-->
+<!--        <relativePath/>-->
+<!--    </parent>-->
 
     <groupId>org.example</groupId>
     <artifactId>dependabot-issue</artifactId>
