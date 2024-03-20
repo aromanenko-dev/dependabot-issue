@@ -9,7 +9,7 @@
         <artifactId>quarkus-bom</artifactId>
 <!--        <groupId>io.quarkus</groupId>-->
 <!--        <artifactId>quarkus-build-parent</artifactId>-->
-        <version>3.7.4</version>
+        <version>3.7.3</version>
         <relativePath/>
     </parent>
 
