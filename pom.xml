@@ -24,7 +24,7 @@
         <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-resteasy-reactive-jackson</artifactId>
-            <version>3.7.3</version>
+            <version>3.9.0</version>
         </dependency>
     </dependencies>
 
